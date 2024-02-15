@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud computing**
 
-- 🤝 I’m looking for help with **Backend projects**
+- 🤝 I’m looking for help with **Mentorship on startups**
 
 - 📫 How to reach me **barungurung00@gmail.com**
 
