@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barun Gurung</h1>
 <h3 align="center">A Full stack developer based in London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barungurung00&label=Profile%20views&color=0e75b6&style=flat" alt="barungurung00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barungurung00" alt="barungurung00" /></a> </p>
 
 - 🔭 I’m currently working on **Cloud Project**
 
