@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Barun Gurung</h1>
-<h3 align="center">A Full stack developer based in London</h3>
+<h3 align="center">A Full stack developer based in Oxford</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barungurung00&label=Profile%20views&color=0e75b6&style=flat" alt="barungurung00" /> </p>
 
 
-- 🔭 I’m currently working on **Cloud Project**
+- 🔭 Interning at DayOff  
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 BSc Computer Science Undergrad 
 
-- 🤝 I’m looking for help with **Mentorship on startups**
+- 🤝 Diving into Cloud Computing
 
 - 📫 How to reach me **barungurung00@gmail.com**
 
