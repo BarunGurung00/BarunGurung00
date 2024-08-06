@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barungurung00&label=Profile%20views&color=0e75b6&style=flat" alt="barungurung00" /> </p>
 
 
-- 🔭 Interning at DayOff  
+- 🔭 Front-End Developer at Spring Software  
 
-- 🌱 BSc Computer Science Undergrad 
+- 📑 AWS Certified Developer 
 
-- 🤝 Diving into Cloud Computing
+- 🌱 BSc Computer Science Undergraduate 
 
 - 📫 How to reach me **barungurung00@gmail.com**
 
